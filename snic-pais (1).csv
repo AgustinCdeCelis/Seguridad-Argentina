@@ -1,0 +1,311 @@
+anio,pais_id,pais_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,200,ARG,1,Homicidios dolosos,3178,3238
+2014,200,ARG,10,Violaciones,3757,3944
+2014,200,ARG,11,Otros delitos contra la integridad sexual,9718,10594
+2014,200,ARG,12,Delitos contra el estado civil,208,0
+2014,200,ARG,13,Amenazas,190941,0
+2014,200,ARG,14,Otros delitos contra la libertad,11832,0
+2014,200,ARG,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),459289,0
+2014,200,ARG,16,Tentativas de robo (excluye las agravadas por el res. de lesiones y/o muerte),29785,0
+2014,200,ARG,17,Robos agravados por el resultado de lesiones y/o muertes ,24640,0
+2014,200,ARG,18,Tentativas de robo agravado por el resultado de lesiones y/o muertes,2063,0
+2014,200,ARG,19,Hurtos,287063,0
+2014,200,ARG,2,Homicidios dolosos en grado de tentativa,1776,1919
+2014,200,ARG,20,Tentativas de hurto,11718,0
+2014,200,ARG,21,Otros delitos contra la propiedad,108320,0
+2014,200,ARG,22,Delitos contra la seguridad pública,8686,0
+2014,200,ARG,23,Delitos contra el orden público,15208,0
+2014,200,ARG,24,Delitos contra la seguridad de la nación,97,0
+2014,200,ARG,25,Delitos contra los poderes públicos y el orden constitucional,603,0
+2014,200,ARG,26,Delitos contra la administración pública,30616,0
+2014,200,ARG,27,Delitos contra la fe pública,6984,0
+2014,200,ARG,28,Ley 23.737 (estupefacientes),32884,0
+2014,200,ARG,29,Otros delitos previstos en leyes especiales,37768,0
+2014,200,ARG,3,Muertes en Accidentes Viales,3611,4614
+2014,200,ARG,31,Suicidios (consumados),3304,
+2014,200,ARG,4,Homicidios culposos por otros hechos,1682,1759
+2014,200,ARG,5,Lesiones dolosas,178611,190916
+2014,200,ARG,6,Lesiones culposas en Accidentes Viales,80026,95032
+2014,200,ARG,7,Lesiones culposas por otros hechos,30482,32394
+2014,200,ARG,8,Otros delitos contra las personas,24646,25726
+2014,200,ARG,9,Delitos contra el honor,856,870
+2015,200,ARG,1,Homicidios dolosos,2744,2837
+2015,200,ARG,10,Violaciones,3484,3746
+2015,200,ARG,11,Otros delitos contra la integridad sexual,12637,13555
+2015,200,ARG,12,Delitos contra el estado civil,156,0
+2015,200,ARG,13,Amenazas,193944,0
+2015,200,ARG,14,Otros delitos contra la libertad,11621,0
+2015,200,ARG,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),433617,0
+2015,200,ARG,16,Tentativas de robo (excluye las agravadas por el res. de lesiones y/o muerte),28934,0
+2015,200,ARG,17,Robos agravados por el resultado de lesiones y/o muertes ,9416,0
+2015,200,ARG,18,Tentativas de robo agravado por el resultado de lesiones y/o muertes,1101,0
+2015,200,ARG,19,Hurtos,271921,0
+2015,200,ARG,2,Homicidios dolosos en grado de tentativa,1601,1733
+2015,200,ARG,20,Tentativas de hurto,9755,0
+2015,200,ARG,21,Otros delitos contra la propiedad,107586,0
+2015,200,ARG,22,Delitos contra la seguridad pública,9009,0
+2015,200,ARG,23,Delitos contra el orden público,12181,0
+2015,200,ARG,24,Delitos contra la seguridad de la nación,71,0
+2015,200,ARG,25,Delitos contra los poderes públicos y el orden constitucional,418,0
+2015,200,ARG,26,Delitos contra la administración pública,34298,0
+2015,200,ARG,27,Delitos contra la fe pública,6853,0
+2015,200,ARG,28,Ley 23.737 (estupefacientes),31541,0
+2015,200,ARG,29,Otros delitos previstos en leyes especiales,37457,0
+2015,200,ARG,3,Muertes en Accidentes Viales,3630,4340
+2015,200,ARG,31,Suicidios (consumados),2879,
+2015,200,ARG,4,Homicidios culposos por otros hechos,1087,1209
+2015,200,ARG,5,Lesiones dolosas,181321,189830
+2015,200,ARG,6,Lesiones culposas en Accidentes Viales,84782,98095
+2015,200,ARG,7,Lesiones culposas por otros hechos,29680,30766
+2015,200,ARG,8,Otros delitos contra las personas,46813,47809
+2015,200,ARG,9,Delitos contra el honor,433,451
+2016,200,ARG,1,Homicidios dolosos,2604,2625
+2016,200,ARG,10,Violaciones,3579,3721
+2016,200,ARG,11,Otros delitos contra la integridad sexual,8850,9282
+2016,200,ARG,12,Delitos contra el estado civil,97,0
+2016,200,ARG,13,Amenazas,169351,0
+2016,200,ARG,14,Otros delitos contra la libertad,12165,0
+2016,200,ARG,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),427473,0
+2016,200,ARG,16,Tentativas de robo (excluye las agravadas por el res. de lesiones y/o muerte),30268,0
+2016,200,ARG,17,Robos agravados por el resultado de lesiones y/o muertes ,9605,0
+2016,200,ARG,18,Tentativas de robo agravado por el resultado de lesiones y/o muertes,1005,0
+2016,200,ARG,19,Hurtos,272128,0
+2016,200,ARG,2,Homicidios dolosos en grado de tentativa,1657,1779
+2016,200,ARG,20,Tentativas de hurto,10392,0
+2016,200,ARG,21,Otros delitos contra la propiedad,101213,0
+2016,200,ARG,22,Delitos contra la seguridad pública,15761,0
+2016,200,ARG,23,Delitos contra el orden público,9248,0
+2016,200,ARG,24,Delitos contra la seguridad de la nación,83,0
+2016,200,ARG,25,Delitos contra los poderes públicos y el orden constitucional,428,0
+2016,200,ARG,26,Delitos contra la administración pública,37259,0
+2016,200,ARG,27,Delitos contra la fe pública,6921,0
+2016,200,ARG,28,Ley 23.737 (estupefacientes),37559,0
+2016,200,ARG,29,Otros delitos previstos en leyes especiales,36065,0
+2016,200,ARG,3,Muertes en Accidentes Viales,3914,4252
+2016,200,ARG,31,Suicidios (consumados),2990,
+2016,200,ARG,4,Homicidios culposos por otros hechos,463,493
+2016,200,ARG,5,Lesiones dolosas,142986,149077
+2016,200,ARG,6,Lesiones culposas en Accidentes Viales,92824,104667
+2016,200,ARG,7,Lesiones culposas por otros hechos,13146,13728
+2016,200,ARG,8,Otros delitos contra las personas,55010,55803
+2016,200,ARG,9,Delitos contra el honor,627,637
+2017,200,ARG,1,Homicidios dolosos,2226,2314
+2017,200,ARG,10,Violaciones,3723,3926
+2017,200,ARG,11,Otros delitos contra la integridad sexual,10552,11286
+2017,200,ARG,12,Delitos contra el estado civil,91,0
+2017,200,ARG,13,Amenazas,177285,0
+2017,200,ARG,14_1,Trata de personas simple,194,0
+2017,200,ARG,14_2,Trata de personas agravado,15,0
+2017,200,ARG,14_3,Otros delitos contra la libertad,11174,0
+2017,200,ARG,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),395629,0
+2017,200,ARG,16,Tentativas de robo (excluye las agravadas por el res. de lesiones y/o muerte),29100,0
+2017,200,ARG,17,Robos agravados por el resultado de lesiones y/o muertes ,9619,0
+2017,200,ARG,18,Tentativas de robo agravado por el resultado de lesiones y/o muertes,1168,0
+2017,200,ARG,19,Hurtos,254418,0
+2017,200,ARG,2,Homicidios dolosos en grado de tentativa,1530,1711
+2017,200,ARG,20,Tentativas de hurto,10214,0
+2017,200,ARG,21,Otros delitos contra la propiedad,103161,0
+2017,200,ARG,22_1,Fabricación adquisición transferencia y tenencia de explosivos y otros materiales peligrosos,136,0
+2017,200,ARG,22_2,Tenencia ilegal de armas de fuego,3314,0
+2017,200,ARG,22_3,Portación ilegal de armas de fuego,2086,0
+2017,200,ARG,22_4,Acopio y fabricación ilegal de armas piezas y municiones,73,0
+2017,200,ARG,22_5,Entrega y comercialización ilegal de armas de fuego,4,0
+2017,200,ARG,22_6,Omisión adulteración y supresión de marcaje,84,0
+2017,200,ARG,22_7,Otros delitos contra la seguridad pública,23776,0
+2017,200,ARG,23,Delitos contra el orden público,9112,0
+2017,200,ARG,24,Delitos contra la seguridad de la nación,51,0
+2017,200,ARG,25,Delitos contra los poderes públicos y el orden constitucional,637,0
+2017,200,ARG,26,Delitos contra la administración pública,42865,0
+2017,200,ARG,27,Delitos contra la fe pública,9326,0
+2017,200,ARG,28_1,Siembra y producción de estupefacientes,273,0
+2017,200,ARG,28_10,Otros delitos previstos en la ley 23.737,11271,0
+2017,200,ARG,28_2,Comercialización y entrega de estupefacientes,4513,0
+2017,200,ARG,28_3,Tenencia o entrega atenuada de estupefacientes,263,0
+2017,200,ARG,28_4,Desvío de Importación de estupefacientes,45,0
+2017,200,ARG,28_5,Organización y financiación de estupefacientes,97,0
+2017,200,ARG,28_6,Tenencia simple de estupefacientes,7965,0
+2017,200,ARG,28_7,Tenencia simple atenuada para uso personal de estupefacientes,21530,0
+2017,200,ARG,28_8,Confabulación de estupefacientes,86,0
+2017,200,ARG,28_9,Contrabando de estupefacientes,1315,0
+2017,200,ARG,29_1,Ley de residuos peligrosos,132,0
+2017,200,ARG,29_2,Ley de fauna,757,0
+2017,200,ARG,29_3,Delitos migratorios,218,0
+2017,200,ARG,29_4,Obstrucción del código aduanero,487,0
+2017,200,ARG,29_5,Contrabando Simple,6825,0
+2017,200,ARG,29_6,Contrabando Agravado,302,0
+2017,200,ARG,29_7,Contrabando de elementos nucleares agresivos químicos armas y municiones,6,0
+2017,200,ARG,29_8,Otros delitos previstos en leyes especiales,29685,0
+2017,200,ARG,3,Muertes en Accidentes Viales,4193,4730
+2017,200,ARG,31,Suicidios (consumados),3279,3284
+2017,200,ARG,32,Delitos contra el orden económico y financiero,783,0
+2017,200,ARG,4,Homicidios culposos por otros hechos,573,642
+2017,200,ARG,5,Lesiones dolosas,142122,160040
+2017,200,ARG,6,Lesiones culposas en Accidentes Viales,97374,112398
+2017,200,ARG,7,Lesiones culposas por otros hechos,7774,8222
+2017,200,ARG,8,Otros delitos contra las personas,53283,54153
+2017,200,ARG,9,Delitos contra el honor,469,472
+2018,200,ARG,1,Homicidios dolosos,2285,2387
+2018,200,ARG,10,Violaciones,4141,4266
+2018,200,ARG,11,Otros delitos contra la integridad sexual,12156,12729
+2018,200,ARG,12,Delitos contra el estado civil,181,0
+2018,200,ARG,13,Amenazas,174612,0
+2018,200,ARG,14_1,Trata de personas simple,192,0
+2018,200,ARG,14_2,Trata de personas agravado,24,0
+2018,200,ARG,14_3,Otros delitos contra la libertad,10830,0
+2018,200,ARG,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),416329,0
+2018,200,ARG,16,Tentativas de robo (excluye las agravadas por el res. de lesiones y/o muerte),29850,0
+2018,200,ARG,17,Robos agravados por el resultado de lesiones y/o muertes ,8916,0
+2018,200,ARG,18,Tentativas de robo agravado por el resultado de lesiones y/o muertes,1310,0
+2018,200,ARG,19,Hurtos,277292,0
+2018,200,ARG,2,Homicidios dolosos en grado de tentativa,1462,1598
+2018,200,ARG,20,Tentativas de hurto,11832,0
+2018,200,ARG,21,Otros delitos contra la propiedad,107648,0
+2018,200,ARG,22_1,Fabricación adquisición transferencia y tenencia de explosivos y otros materiales peligrosos,152,0
+2018,200,ARG,22_2,Tenencia ilegal de armas de fuego,3003,0
+2018,200,ARG,22_3,Portación ilegal de armas de fuego,1844,0
+2018,200,ARG,22_4,Acopio y fabricación ilegal de armas piezas y municiones,47,0
+2018,200,ARG,22_5,Entrega y comercialización ilegal de armas de fuego,2,0
+2018,200,ARG,22_6,Omisión adulteración y supresión de marcaje,187,0
+2018,200,ARG,22_7,Otros delitos contra la seguridad pública,25547,0
+2018,200,ARG,23,Delitos contra el orden público,7291,0
+2018,200,ARG,24,Delitos contra la seguridad de la nación,89,0
+2018,200,ARG,25,Delitos contra los poderes públicos y el orden constitucional,931,0
+2018,200,ARG,26,Delitos contra la administración pública,40380,0
+2018,200,ARG,27,Delitos contra la fe pública,8837,0
+2018,200,ARG,28_1,Siembra y producción de estupefacientes,222,0
+2018,200,ARG,28_10,Otros delitos previstos en la ley 23.737,16674,0
+2018,200,ARG,28_2,Comercialización y entrega de estupefacientes,5946,0
+2018,200,ARG,28_3,Tenencia o entrega atenuada de estupefacientes,643,0
+2018,200,ARG,28_4,Desvío de Importación de estupefacientes,20,0
+2018,200,ARG,28_5,Organización y financiación de estupefacientes,173,0
+2018,200,ARG,28_6,Tenencia simple de estupefacientes,8110,0
+2018,200,ARG,28_7,Tenencia simple atenuada para uso personal de estupefacientes,28688,0
+2018,200,ARG,28_8,Confabulación de estupefacientes,123,0
+2018,200,ARG,28_9,Contrabando de estupefacientes,899,0
+2018,200,ARG,29_1,Ley de residuos peligrosos,67,0
+2018,200,ARG,29_2,Ley de fauna,742,0
+2018,200,ARG,29_3,Delitos migratorios,604,0
+2018,200,ARG,29_4,Obstrucción del código aduanero,333,0
+2018,200,ARG,29_5,Contrabando Simple,5295,0
+2018,200,ARG,29_6,Contrabando Agravado,170,0
+2018,200,ARG,29_7,Contrabando de elementos nucleares agresivos químicos armas y municiones,6,0
+2018,200,ARG,29_8,Otros delitos previstos en leyes especiales,32436,0
+2018,200,ARG,3,Muertes en Accidentes Viales,4294,4803
+2018,200,ARG,31,Suicidios (consumados),3788,3788
+2018,200,ARG,32,Delitos contra el orden económico y financiero,289,0
+2018,200,ARG,4,Homicidios culposos por otros hechos,429,459
+2018,200,ARG,5,Lesiones dolosas,135973,142539
+2018,200,ARG,6,Lesiones culposas en Accidentes Viales,95718,111890
+2018,200,ARG,7,Lesiones culposas por otros hechos,6696,6988
+2018,200,ARG,8,Otros delitos contra las personas,59453,61208
+2018,200,ARG,9,Delitos contra el honor,560,568
+2019,200,ARG,1,Homicidios dolosos,2237,2306
+2019,200,ARG,10,Violaciones,5461,5544
+2019,200,ARG,11,Otros delitos contra la integridad sexual,15915,16618
+2019,200,ARG,12,Delitos contra el estado civil,233,0
+2019,200,ARG,13,Amenazas,184012,0
+2019,200,ARG,14_1,Trata de personas simple,133,0
+2019,200,ARG,14_2,Trata de personas agravado,18,0
+2019,200,ARG,14_3,Otros delitos contra la libertad,12375,0
+2019,200,ARG,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),471801,0
+2019,200,ARG,16,Tentativas de robo (excluye las agravadas por el res. de lesiones y/o muerte),28499,0
+2019,200,ARG,17,Robos agravados por el resultado de lesiones y/o muertes ,6981,0
+2019,200,ARG,18,Tentativas de robo agravado por el resultado de lesiones y/o muertes,1447,0
+2019,200,ARG,19,Hurtos,333350,0
+2019,200,ARG,2,Homicidios dolosos en grado de tentativa,1513,1665
+2019,200,ARG,20,Tentativas de hurto,13572,0
+2019,200,ARG,21,Otros delitos contra la propiedad,123972,0
+2019,200,ARG,22_1,Fabricación adquisición transferencia y tenencia de explosivos y otros materiales peligrosos,115,0
+2019,200,ARG,22_2,Tenencia ilegal de armas de fuego,2923,0
+2019,200,ARG,22_3,Portación ilegal de armas de fuego,1728,0
+2019,200,ARG,22_4,Acopio y fabricación ilegal de armas piezas y municiones,87,0
+2019,200,ARG,22_5,Entrega y comercialización ilegal de armas de fuego,84,0
+2019,200,ARG,22_6,Omisión adulteración y supresión de marcaje,122,0
+2019,200,ARG,22_7,Otros delitos contra la seguridad pública,28326,0
+2019,200,ARG,23,Delitos contra el orden público,5167,0
+2019,200,ARG,24,Delitos contra la seguridad de la nación,117,0
+2019,200,ARG,25,Delitos contra los poderes públicos y el orden constitucional,1331,0
+2019,200,ARG,26,Delitos contra la administración pública,41329,0
+2019,200,ARG,27,Delitos contra la fe pública,10845,0
+2019,200,ARG,28_1,Siembra y producción de estupefacientes,848,0
+2019,200,ARG,28_10,Otros delitos previstos en la ley 23.737,22768,0
+2019,200,ARG,28_2,Comercialización y entrega de estupefacientes,6634,0
+2019,200,ARG,28_3,Tenencia o entrega atenuada de estupefacientes,1299,0
+2019,200,ARG,28_4,Desvío de Importación de estupefacientes,1475,0
+2019,200,ARG,28_5,Organización y financiación de estupefacientes,208,0
+2019,200,ARG,28_6,Tenencia simple de estupefacientes,12352,0
+2019,200,ARG,28_7,Tenencia simple atenuada para uso personal de estupefacientes,52745,0
+2019,200,ARG,28_8,Confabulación de estupefacientes,107,0
+2019,200,ARG,28_9,Contrabando de estupefacientes,560,0
+2019,200,ARG,29_1,Ley de residuos peligrosos,96,0
+2019,200,ARG,29_2,Ley de fauna,1599,0
+2019,200,ARG,29_3,Delitos migratorios,3741,0
+2019,200,ARG,29_4,Obstrucción del código aduanero,370,0
+2019,200,ARG,29_5,Contrabando Simple,25806,0
+2019,200,ARG,29_6,Contrabando Agravado,228,0
+2019,200,ARG,29_7,Contrabando de elementos nucleares agresivos químicos armas y municiones,25,0
+2019,200,ARG,29_8,Otros delitos previstos en leyes especiales,40515,0
+2019,200,ARG,3,Muertes en Accidentes Viales,3671,4189
+2019,200,ARG,31,Suicidios (consumados),3567,3567
+2019,200,ARG,32,Delitos contra el orden económico y financiero,354,0
+2019,200,ARG,4,Homicidios culposos por otros hechos,412,465
+2019,200,ARG,5,Lesiones dolosas,143697,153293
+2019,200,ARG,6,Lesiones culposas en Accidentes Viales,93549,108019
+2019,200,ARG,7,Lesiones culposas por otros hechos,9077,9715
+2019,200,ARG,8,Otros delitos contra las personas,53484,55170
+2019,200,ARG,9,Delitos contra el honor,693,716
+2020,200,ARG,1,Homicidios dolosos,2347,2416
+2020,200,ARG,10,Violaciones,5613,5703
+2020,200,ARG,11,Otros delitos contra la integridad sexual,20950,23213
+2020,200,ARG,12,Delitos contra el estado civil,52,0
+2020,200,ARG,13,Amenazas,190545,0
+2020,200,ARG,14_1,Trata de personas simple,183,0
+2020,200,ARG,14_2,Trata de personas agravado,126,0
+2020,200,ARG,14_3,Otros delitos contra la libertad,12142,0
+2020,200,ARG,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),331858,0
+2020,200,ARG,16,Tentativas de robo (excluye las agravadas por el res. de lesiones y/o muerte),25451,0
+2020,200,ARG,17,Robos agravados por el resultado de lesiones y/o muertes ,4014,0
+2020,200,ARG,18,Tentativas de robo agravado por el resultado de lesiones y/o muertes,1320,0
+2020,200,ARG,19,Hurtos,228284,0
+2020,200,ARG,2,Homicidios dolosos en grado de tentativa,1477,1630
+2020,200,ARG,20,Tentativas de hurto,11194,0
+2020,200,ARG,21,Otros delitos contra la propiedad,120301,0
+2020,200,ARG,22_1,Fabricación adquisición transferencia y tenencia de explosivos y otros materiales peligrosos,75,0
+2020,200,ARG,22_2,Tenencia ilegal de armas de fuego,2933,0
+2020,200,ARG,22_3,Portación ilegal de armas de fuego,1637,0
+2020,200,ARG,22_4,Acopio y fabricación ilegal de armas piezas y municiones,59,0
+2020,200,ARG,22_5,Entrega y comercialización ilegal de armas de fuego,6,0
+2020,200,ARG,22_6,Omisión adulteración y supresión de marcaje,112,0
+2020,200,ARG,22_7,Otros delitos contra la seguridad pública,92823,0
+2020,200,ARG,23,Delitos contra el orden público,3982,0
+2020,200,ARG,24,Delitos contra la seguridad de la nación,690,0
+2020,200,ARG,25,Delitos contra los poderes públicos y el orden constitucional,969,0
+2020,200,ARG,26,Delitos contra la administración pública,58447,0
+2020,200,ARG,27,Delitos contra la fe pública,8786,0
+2020,200,ARG,28_1,Siembra y producción de estupefacientes,960,0
+2020,200,ARG,28_10,Otros delitos previstos en la ley 23.737,10263,0
+2020,200,ARG,28_2,Comercialización y entrega de estupefacientes,5012,0
+2020,200,ARG,28_3,Tenencia o entrega atenuada de estupefacientes,630,0
+2020,200,ARG,28_4,Desvío de Importación de estupefacientes,72,0
+2020,200,ARG,28_5,Organización y financiación de estupefacientes,167,0
+2020,200,ARG,28_6,Tenencia simple de estupefacientes,9253,0
+2020,200,ARG,28_7,Tenencia simple atenuada para uso personal de estupefacientes,30405,0
+2020,200,ARG,28_8,Confabulación de estupefacientes,68,0
+2020,200,ARG,28_9,Contrabando de estupefacientes,382,0
+2020,200,ARG,29_1,Ley de residuos peligrosos,35,0
+2020,200,ARG,29_2,Ley de fauna,1147,0
+2020,200,ARG,29_3,Delitos migratorios,1899,0
+2020,200,ARG,29_4,Obstrucción del código aduanero,190,0
+2020,200,ARG,29_5,Contrabando Simple,18813,0
+2020,200,ARG,29_6,Contrabando Agravado,118,0
+2020,200,ARG,29_7,Contrabando de elementos nucleares agresivos químicos armas y municiones,6,0
+2020,200,ARG,29_8,Otros delitos previstos en leyes especiales,66598,0
+2020,200,ARG,3,Muertes en Accidentes Viales,2741,2978
+2020,200,ARG,31,Suicidios (consumados),3170,3171
+2020,200,ARG,32,Delitos contra el orden económico y financiero,518,0
+2020,200,ARG,4,Homicidios culposos por otros hechos,458,497
+2020,200,ARG,5,Lesiones dolosas,134113,142816
+2020,200,ARG,6,Lesiones culposas en Accidentes Viales,62259,72544
+2020,200,ARG,7,Lesiones culposas por otros hechos,4516,4675
+2020,200,ARG,8,Otros delitos contra las personas,49773,51308
+2020,200,ARG,9,Delitos contra el honor,757,771
